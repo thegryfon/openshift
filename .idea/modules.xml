@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/openshift-spring-cloud-kubernetes.iml" filepath="$PROJECT_DIR$/openshift-spring-cloud-kubernetes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openshift-spring-cloud-kubernetes_main.iml" filepath="$PROJECT_DIR$/.idea/modules/openshift-spring-cloud-kubernetes_main.iml" group="openshift-spring-cloud-kubernetes" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openshift-spring-cloud-kubernetes_test.iml" filepath="$PROJECT_DIR$/.idea/modules/openshift-spring-cloud-kubernetes_test.iml" group="openshift-spring-cloud-kubernetes" />
     </modules>
   </component>
 </project>

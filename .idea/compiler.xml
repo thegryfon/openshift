@@ -5,6 +5,8 @@
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="_spring+auth+vue-openshift-spring-cloud-kubernetes_main" target="1.8" />
+      <module name="_spring+auth+vue-openshift-spring-cloud-kubernetes_test" target="1.8" />
       <module name="openshift-spring-cloud-kubernetes_main" target="1.8" />
       <module name="openshift-spring-cloud-kubernetes_test" target="1.8" />
     </bytecodeTargetLevel>
